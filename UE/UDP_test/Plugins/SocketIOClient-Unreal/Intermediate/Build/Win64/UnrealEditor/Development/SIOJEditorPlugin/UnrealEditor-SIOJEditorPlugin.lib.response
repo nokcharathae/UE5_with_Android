@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SIOJEditorPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\CEY\Documents\Unreal Projects\mideapipe\Intermediate\Build\Win64\mideapipeEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\CEY\Documents\Unreal Projects\mideapipe\Plugins\SocketIOClient-Unreal\Intermediate\Build\Win64\UnrealEditor\Development\SIOJEditorPlugin\Module.SIOJEditorPlugin.cpp.obj"
+"C:\Users\CEY\Documents\Unreal Projects\mideapipe\Plugins\SocketIOClient-Unreal\Intermediate\Build\Win64\UnrealEditor\Development\SIOJEditorPlugin\Module.SIOJEditorPlugin.gen.cpp.obj"
+"C:\Users\CEY\Documents\Unreal Projects\mideapipe\Plugins\SocketIOClient-Unreal\Intermediate\Build\Win64\UnrealEditor\Development\SIOJEditorPlugin\Default.rc2.res"
+/OUT:"C:\Users\CEY\Documents\Unreal Projects\mideapipe\Plugins\SocketIOClient-Unreal\Intermediate\Build\Win64\UnrealEditor\Development\SIOJEditorPlugin\UnrealEditor-SIOJEditorPlugin.lib"

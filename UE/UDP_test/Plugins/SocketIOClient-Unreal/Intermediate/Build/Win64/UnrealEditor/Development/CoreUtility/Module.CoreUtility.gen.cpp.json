@@ -1,0 +1,22 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\development\\coreutility\\module.coreutility.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\intermediate\\build\\win64\\mideapipeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\development\\coreutility\\definitions.coreutility.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\coreutility\\coreutility.init.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\coreutility\\cublueprintlibrary.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\coreutility\\public\\cublueprintlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\soundwaveprocedural.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\soundwaveprocedural.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\coreutility\\cublueprintlibrary.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\coreutility\\cufilecomponent.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\coreutility\\public\\cufilecomponent.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\coreutility\\cufilecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

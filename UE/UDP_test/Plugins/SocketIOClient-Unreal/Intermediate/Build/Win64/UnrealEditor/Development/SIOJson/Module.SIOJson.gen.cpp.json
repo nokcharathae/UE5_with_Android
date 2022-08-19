@@ -1,0 +1,41 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\development\\siojson\\module.siojson.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\intermediate\\build\\win64\\mideapipeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\development\\siojson\\definitions.siojson.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojconvert.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\siojson\\public\\siojconvert.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojconvert.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojlibrary.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\siojson\\public\\siojlibrary.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\siojson\\public\\siojtypes.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\siojson\\public\\siojsonobject.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojsonobject.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\siojson\\public\\siojrequestjson.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\latentactions.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\coreutility\\public\\culambdarunnable.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojrequestjson.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojlibrary.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojrequestjson.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojson.init.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojsonobject.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojsonvalue.gen.cpp",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\source\\siojson\\public\\siojsonvalue.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojsonvalue.generated.h",
+            "c:\\users\\cey\\documents\\unreal projects\\mideapipe\\plugins\\socketioclient-unreal\\intermediate\\build\\win64\\unrealeditor\\inc\\siojson\\siojtypes.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

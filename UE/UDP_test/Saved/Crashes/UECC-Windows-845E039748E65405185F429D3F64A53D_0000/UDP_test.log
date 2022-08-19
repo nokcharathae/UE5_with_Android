@@ -1,0 +1,2371 @@
+﻿Log file open, 06/26/22 02:18:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=21000)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UDP_test
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\CEY\Documents\Unreal Projects\UDP_test\UDP_test.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1766] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="1e837a3049a7b2988235a685448dc9bb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.467663
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-845E039748E65405185F429D3F64A53D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Project plugin SocketIOClient
+LogPluginManager: Mounting Project plugin UDPWrapper
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Plugins/UDP-Unreal/Content/' mounted to '/UDPWrapper/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1766] (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.25-17.18.39:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.25-17.18.39:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.25-17.18.39:668][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.25-17.18.39:669][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.25-17.18.39:669][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.25-17.18.39:670][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.25-17.18.39:683][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.25-17.18.39:683][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.25-17.18.39:802][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.25-17.18.39:802][  0]LogD3D12RHI: Adapter has 12142MB of dedicated video memory, 0MB of dedicated system memory, and 16343MB of shared system memory, 1 output[s]
+[2022.06.25-17.18.39:809][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.25-17.18.39:809][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16343MB of shared system memory, 0 output[s]
+[2022.06.25-17.18.39:809][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.25-17.18.39:809][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-17.18.39:809][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.25-17.18.39:809][  0]LogHAL: Display: Platform has ~ 32 GB [34274258944 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.25-17.18.39:809][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.25-17.18.39:809][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.25-17.18.39:809][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.25-17.18.39:810][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.25-17.18.39:810][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/CEY/Documents/Unreal Projects/UDP_test/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.25-17.18.39:810][  0]LogInit: Computer: DESKTOP-J6KQA7P
+[2022.06.25-17.18.39:810][  0]LogInit: User: CEY
+[2022.06.25-17.18.39:810][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.25-17.18.39:810][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.25-17.18.39:810][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.06.25-17.18.39:810][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.25-17.18.39:810][  0]LogMemory: Process Physical Memory: 263.56 MB used, 273.36 MB peak
+[2022.06.25-17.18.39:810][  0]LogMemory: Process Virtual Memory: 209.39 MB used, 209.39 MB peak
+[2022.06.25-17.18.39:810][  0]LogMemory: Physical Memory: 10385.49 MB used,  22300.99 MB free, 32686.48 MB total
+[2022.06.25-17.18.39:810][  0]LogMemory: Virtual Memory: 14383.14 MB used,  23423.34 MB free, 37806.48 MB total
+[2022.06.25-17.18.39:810][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.25-17.18.39:817][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.25-17.18.39:827][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.25-17.18.39:828][  0]LogInit: Using OS detected language (ko-KR).
+[2022.06.25-17.18.39:828][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.06.25-17.18.39:832][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2022.06.25-17.18.39:926][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.25-17.18.40:021][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.25-17.18.40:021][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2022.06.25-17.18.40:021][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.06.25-17.18.40:021][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.06.25-17.18.40:034][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.25-17.18.40:034][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.25-17.18.40:126][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.25-17.18.40:128][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.25-17.18.40:128][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.25-17.18.40:195][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.25-17.18.40:196][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.25-17.18.40:344][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.25-17.18.40:349][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.25-17.18.40:359][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.25-17.18.40:386][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.25-17.18.40:386][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.25-17.18.40:413][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.25-17.18.40:413][  0]LogWindows: Attached monitors:
+[2022.06.25-17.18.40:413][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.25-17.18.40:413][  0]LogWindows: Found 1 attached monitors.
+[2022.06.25-17.18.40:413][  0]LogWindows: EnumDisplayDevices:
+[2022.06.25-17.18.40:413][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.25-17.18.40:413][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.25-17.18.40:413][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.25-17.18.40:413][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.25-17.18.40:414][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.25-17.18.40:414][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.06.25-17.18.40:414][  0]LogD3D12RHI:   Driver Version: 512.95 (internal:30.0.15.1295, unified:512.95)
+[2022.06.25-17.18.40:414][  0]LogD3D12RHI:      Driver Date: 5-19-2022
+[2022.06.25-17.18.40:414][  0]LogRHI: Texture pool is 7165 MB (70% of 10236 MB)
+[2022.06.25-17.18.40:414][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.25-17.18.40:414][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.25-17.18.40:423][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.25-17.18.40:427][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/CEY/Documents/Unreal Projects/UDP_test/UDP_test.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/TurnkeyReport_0.log" -log="C:/Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/TurnkeyLog_0.log" -project="C:/Users/CEY/Documents/Unreal Projects/UDP_test/UDP_test.uproject"  -platform=all'
+[2022.06.25-17.18.40:428][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/CEY/Documents/Unreal Projects/UDP_test/UDP_test.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/TurnkeyReport_0.log" -log="C:/Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/TurnkeyLog_0.log" -project="C:/Users/CEY/Documents/Unreal Projects/UDP_test/UDP_test.uproject"  -platform=all" ]
+[2022.06.25-17.18.40:441][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.25-17.18.40:446][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.25-17.18.40:446][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.25-17.18.40:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.25-17.18.40:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.25-17.18.40:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.25-17.18.40:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.25-17.18.40:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.25-17.18.40:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.25-17.18.40:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.25-17.18.40:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.25-17.18.40:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.25-17.18.40:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.25-17.18.40:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.25-17.18.40:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.25-17.18.40:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.25-17.18.40:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.25-17.18.40:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.25-17.18.40:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.25-17.18.40:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.25-17.18.40:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.25-17.18.40:486][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.25-17.18.40:491][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.25-17.18.40:492][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.25-17.18.40:493][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.25-17.18.40:493][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.25-17.18.40:493][  0]LogTargetPlatformManager:   PCM
+[2022.06.25-17.18.40:494][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.25-17.18.40:494][  0]LogTargetPlatformManager:   BINKA
+[2022.06.25-17.18.40:494][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.25-17.18.40:494][  0]LogTargetPlatformManager:   OGG
+[2022.06.25-17.18.40:494][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.25-17.18.40:494][  0]LogTargetPlatformManager:   OPUS
+[2022.06.25-17.18.40:524][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.25-17.18.40:528][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.25-17.18.40:530][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.25-17.18.40:530][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.25-17.18.40:530][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.25-17.18.40:530][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.25-17.18.40:530][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.25-17.18.40:531][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.25-17.18.40:531][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.25-17.18.40:531][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.25-17.18.40:531][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.25-17.18.40:531][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.25-17.18.40:531][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.25-17.18.40:531][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.25-17.18.40:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.25-17.18.40:534][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.25-17.18.40:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-17.18.40:534][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.25-17.18.40:549][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.25-17.18.40:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-17.18.40:549][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.25-17.18.40:554][  0]LogDerivedDataCache: Speed tests for C:/Users/CEY/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.25-17.18.40:555][  0]LogDerivedDataCache: Display: Performance to C:/Users/CEY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=402.06MBs, RandomWriteSpeed=297.96MBs. Assigned SpeedClass 'Local'
+[2022.06.25-17.18.40:555][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CEY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.25-17.18.40:555][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.25-17.18.40:555][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.25-17.18.40:560][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.25-17.18.40:560][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.25-17.18.40:561][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Intermediate/Shaders/WorkingDirectory/19492/).
+[2022.06.25-17.18.40:561][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CEY/AppData/Local/Temp/UnrealShaderWorkingDir/6CAC7BFD48712A2FD87B56AADA13FB11/'.
+[2022.06.25-17.18.40:561][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.25-17.18.40:561][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.06.25-17.18.41:723][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.25-17.18.41:723][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.25-17.18.41:723][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.25-17.18.41:755][  0]LogAssetRegistry: FAssetRegistry took 0.0119 seconds to start up
+[2022.06.25-17.18.41:759][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.25-17.18.41:907][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.25-17.18.41:908][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.25-17.18.42:162][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-17.18.42:162][  0]LogDeviceProfileManager: Active device profile: [000009D424F32D80][000009D406F25000 50] WindowsEditor
+[2022.06.25-17.18.42:162][  0]LogDeviceProfileManager: Profiles: [000009D424F32840][000009D4199A0000 50] Windows, [000009D424F32D80][000009D406F25000 50] WindowsEditor, [000009D424F324C0][000009D424F40000 50] WindowsServer, [000009D424F32140][000009D424F45000 50] WindowsClient, [000009D424F31F80][000009D424F47800 50] IOS, [000009D424F31DC0][000009D424F4A000 50] iPadAir2, [000009D424F35080][000009D419955000 50] IPadPro, [000009D424F35400][000009D424F4C800 50] iPadAir3, [000009D424F347C0][000009D424F50000 50] iPadAir4, [000009D424F355C0][000009D424F55000 50] iPadMini4, [000009D424F316C0][000009D424F57800 50] iPadMini5, [000009D424F34EC0][000009D424F5A000 50] iPadMini6, [000009D424F37E00][000009D424FC0000 50] iPhone6S, [000009D424F38180][000009D424FC2800 50] iPhone7, [000009D424F38500][000009D424FC5000 50] iPodTouch7, [000009D424F33F00][000009D424FCA000 50] iPhone6SPlus, [000009D424F30E00][000009D424FCC800 50] iPhone7Plus, [000009D424F33100][000009D424F42800 50] iPhoneSE, [000009D424F35CC0][000009D424F5C800 50] iPhone8, [000009D424F36580][000009D424FC7800 50] iPhone8Plus, [000009D424F33B80][000009D424F60000 50] iPhoneX, [000009D424F301C0][000009D424F65000 50] iPhoneXS, [000009D424F36C80][000009D424F67800 50] iPhoneXSMax, [000009D424F34B40][000009D424F6A000 50] iPhoneXR, [000009D424F35780][000009D424F6C800 50] iPhone11, [000009D424F35E80][000009D424F52800 50] iPhone11Pro, [000009D424F30380][000009D424F70000 50] iPhone11ProMax, [000009D424F34980][000009D424F75000 50] iPhoneSE2, [000009D424F32F40][000009D424F77800 50] iPhone12Mini, [000009D424F386C0][000009D424F7A000 50] iPhone12, [000009D424F36E40][000009D424F7C800 50] iPhone12Pro, [000009D424F30700][000009D424F62800 50] iPhone12ProMax, [000009D424F378C0][000009D424FD0000 50] iPhone13Mini, [000009D424F31880][000009D424FD5000 50] iPhone13, [000009D424F37700][000009D424FD7800 50] iPhone13Pro, [000009D424F34440][000009D424FDA000 50] iPhone13ProMax, [000009D424F36040][000009D424FDC800 50] iPadPro105, [000009D424F38A40][000009D424F72800 50] iPadPro129, [000009D424F34280][000009D424FE0000 50] iPadPro97, [000009D424F363C0][000009D424FE5000 50] iPadPro2_129, [000009D424F340C0][000009D424FE7800 50] iPad5, [000009D424F32300][000009D424FEA000 50] iPad6, [000009D424F332C0][000009D424FEC800 50] iPad7, [000009D424F38340][000009D424FD2800 50] iPad8, [000009D424F33D40][000009D424F90000 50] iPad9, [000009D424F31500][000009D424F95000 50] iPadPro11, [000009D424F37540][000009D424F97800 50] iPadPro2_11, [000009D424F37A80][000009D424F9A000 50] iPadPro3_11, [000009D424F32BC0][000009D424F9C800 50] iPadPro3_129, [000009D424F30540][000009D424FE2800 50] iPadPro4_129, [000009D424F37000][000009D424FA0000 50] iPadPro5_129, [000009D424F34600][000009D424FA5000 50] AppleTV, [000009D424F31340][000009D424FA7800 50] AppleTV4K, [000009D424F31180][000009D424FAA000 50] TVOS, [000009D424F3A2C0][000009D424F92800 50] Mac, [000009D424F3A640][000009D424FAC800 50] MacEditor, [000009D424F39300][000009D424FB0000 50] MacClient, [000009D424F36200][000009D424FB5000 50] MacServer, [000009D424F3A800][000009D424FBA000 50] Linux, [000009D424F3A100][000009D424FB7800 50] LinuxEditor, [000009D424F30000][000009D424FBC800 50] LinuxArm64Editor, [000009D424F39680][000009D424FA2800 50] LinuxArm64, [000009D424F30FC0][000009D423810000 50] LinuxClient, [000009D424F38C00][000009D423815000 50] LinuxArm64Client, [000009D424F37380][000009D423817800 50] LinuxServer, [000009D424F39840][000009D42381A000 50] LinuxArm64Server, [000009D424F30C40][000009D42381C800 50] Android, [000009D424F38F80][000009D424FB2800 50] Android_Preview_OpenGL, [000009D424F394C0][000009D423820000 50] Android_Preview_Vulkan, [000009D424F308C0][000009D423825000 50] Android_Low, [000009D424F3A480][000009D423827800 50] Android_Mid, [000009D424F37C40][000009D42382A000 50] Android_High, [000009D424F38DC0][000009D42382C800 50] Android_Default, [000009D424F35240][000009D423812800 50] Android_Adreno4xx, [000009D424F33640][000009D423830000 50] Android_Adreno5xx_Low, [000009D424F31A40][000009D423835000 50] Android_Adreno5xx, [000009D424F39A00][000009D423837800 50] Android_Adreno6xx, [000009D424F39BC0][000009D42383A000 50] Android_Adreno6xx_Vulkan, [000009D424F32680][000009D42383C800 50] Android_Adreno7xx, [000009D424F39F40][000009D423822800 50] Android_Adreno7xx_Vulkan, [000009D424F39140][000009D423840000 50] Android_Mali_T6xx, [000009D424F39D80][000009D423845000 50] Android_Mali_T7xx, [000009D424F3AB80][000009D423847800 50] Android_Mali_T8xx, [000009D424F3A9C0][000009D42384A000 50] Android_Mali_G71, [000009D424F339C0][000009D42384C800 50] Android_Mali_G72, [000009D424F35B00][000009D423832800 50] Android_Mali_G72_Vulkan, [000009D424F34D00][000009D423860000 50] Android_Mali_G76, [000009D424F3AF00][000009D423865000 50] Android_Mali_G76_Vulkan, [000009D424F38880][000009D423867800 50] Android_Mali_G77, [000009D424F3B600][000009D42386A000 50] Android_Mali_G77_Vulkan, [000009D424F3B280][000009D42386C800 50] Android_Mali_G78, [000009D424F31C00][000009D423842800 50] Android_Mali_G78_Vulkan, [000009D424F35940][000009D423870000 50] Android_Mali_G710, [000009D424F3C240][000009D423875000 50] Android_Mali_G710_Vulkan, [000009D424F3B440][000009D423877800 50] Android_Xclipse_920, [000009D424F3C400][000009D42387A000 50] Android_Xclipse_920_Vulkan, [000009D424F3B980][000009D42387C800 50] Android_Vulkan_SM5, [000009D424F30A80][000009D423862800 50] Android_PowerVR_G6xxx, [000009D424F3CE80][000009D423880000 50] Android_PowerVR_GT7xxx, [000009D424F3D040][000009D423885000 50] Android_PowerVR_GE8xxx, [000009D424F33480][000009D423887800 50] Android_PowerVR_GM9xxx, [000009D424F3B7C0][000009D42388A000 50] Android_PowerVR_GM9xxx_Vulkan, [000009D424F3BD00][000009D42388C800 50] Android_TegraK1, [000009D424F36740][000009D423872800 50] Android_Unknown_Vulkan, [000009D424F3D200][000009D423890000 50] Oculus_Quest, [000009D424F3CB00][000009D423895000 50] Oculus_Quest2, [000009D424F37FC0][000009D423897800 50] HoloLens, 
+[2022.06.25-17.18.42:162][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.06.25-17.18.42:165][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.06.25-17.18.42:180][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.25-17.18.42:332][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.25-17.18.42:332][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.25-17.18.42:332][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.25-17.18.42:332][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.25-17.18.42:332][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.25-17.18.42:342][  0]LogNetVersion: UDP_test 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2670683124)
+[2022.06.25-17.18.42:441][  0]LogSlate: Border
+[2022.06.25-17.18.42:441][  0]LogSlate: BreadcrumbButton
+[2022.06.25-17.18.42:441][  0]LogSlate: Default
+[2022.06.25-17.18.42:441][  0]LogSlate: Icons.Save
+[2022.06.25-17.18.42:441][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.25-17.18.42:441][  0]LogSlate: ListView
+[2022.06.25-17.18.42:441][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.25-17.18.42:441][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.25-17.18.42:441][  0]LogSlate: TableView.DarkRow
+[2022.06.25-17.18.42:441][  0]LogSlate: TableView.Row
+[2022.06.25-17.18.42:441][  0]LogSlate: TreeView
+[2022.06.25-17.18.42:586][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.42:608][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.42:608][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.42:703][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.25-17.18.42:703][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.06.25-17.18.42:703][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.25-17.18.42:963][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9A71022B4D407F241A06ABAFD55E9504 | Instance: 4543A1AB46E08D927A14108B593C6917 (DESKTOP-J6KQA7P-19492).
+[2022.06.25-17.18.42:993][  0]LogPython: Using Python 3.9.7
+[2022.06.25-17.18.43:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.25-17.18.43:676][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.25-17.18.43:791][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.43:795][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.43:799][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.43:805][  0]LogUProjectInfo: Found projects:
+[2022.06.25-17.18.44:018][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.25-17.18.44:059][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.25-17.18.44:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-17.18.44:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-17.18.44:148][  0]LogCollectionManager: Loaded 0 collections in 0.001762 seconds
+[2022.06.25-17.18.44:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEY/Documents/Unreal Projects/UDP_test/Saved/Collections/' took 0.00s
+[2022.06.25-17.18.44:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEY/Documents/Unreal Projects/UDP_test/Content/Developers/CEY/Collections/' took 0.00s
+[2022.06.25-17.18.44:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEY/Documents/Unreal Projects/UDP_test/Content/Collections/' took 0.00s
+[2022.06.25-17.18.44:313][  0]LogClass: Display: EnumProperty FSIOJ_NamedType::Type is not initialized properly. Module:SIOJEditorPlugin File:Public/SIOJ_BreakJson.h
+[2022.06.25-17.18.44:313][  0]LogClass: Display: BoolProperty FSIOJ_NamedType::bIsArray is not initialized properly. Module:SIOJEditorPlugin File:Public/SIOJ_BreakJson.h
+[2022.06.25-17.18.44:313][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2022.06.25-17.18.44:317][  0]LogEngine: Initializing Engine...
+[2022.06.25-17.18.44:328][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.25-17.18.44:329][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.25-17.18.44:539][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.25-17.18.44:540][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-17.18.44:548][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.18.44:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.25-17.18.44:573][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.25-17.18.44:592][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.25-17.18.44:592][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.25-17.18.44:592][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.25-17.18.44:593][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.25-17.18.44:593][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-17.18.44:593][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-17.18.44:593][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-17.18.44:593][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-17.18.44:593][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-17.18.44:593][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-17.18.44:598][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-17.18.44:626][  0]LogAudioMixer: Display: Using Audio Hardware Device LG HDR QHD(NVIDIA High Definition Audio)
+[2022.06.25-17.18.44:626][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-17.18.44:627][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-17.18.44:627][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-17.18.44:627][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.25-17.18.44:627][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.25-17.18.44:628][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.25-17.18.44:628][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.25-17.18.44:628][  0]LogInit: FAudioDevice initialized.
+[2022.06.25-17.18.44:628][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.25-17.18.44:628][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.25-17.18.44:628][  0]LogInit: Texture streaming: Enabled
+[2022.06.25-17.18.44:658][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.25-17.18.44:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.25-17.18.44:694][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.25-17.18.44:700][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.25-17.18.44:700][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.25-17.18.45:663][  0]LogLiveCoding: Display: First instance in process group "UE_UDP_test_0xe7cd4403", spawning console
+[2022.06.25-17.18.45:663][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.25-17.18.45:663][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.25-17.18.45:692][  0]LogInit: Transaction tracking system initialized
+[2022.06.25-17.18.45:760][  0]BlueprintLog: New page: 에디터 로드
+[2022.06.25-17.18.45:924][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.06.25-17.18.45:967][  0]TimingProfiler: Initialize
+[2022.06.25-17.18.45:967][  0]TimingProfiler: OnSessionChanged
+[2022.06.25-17.18.45:967][  0]LoadingProfiler: Initialize
+[2022.06.25-17.18.45:967][  0]LoadingProfiler: OnSessionChanged
+[2022.06.25-17.18.45:967][  0]NetworkingProfiler: Initialize
+[2022.06.25-17.18.45:967][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.25-17.18.45:967][  0]MemoryProfiler: Initialize
+[2022.06.25-17.18.45:967][  0]MemoryProfiler: OnSessionChanged
+[2022.06.25-17.18.46:521][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CEY/Documents/Unreal Projects/UDP_test/Content/' took 0.01s
+[2022.06.25-17.18.46:521][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.25-17.18.46:580][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.25-17.18.46:582][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.25-17.18.46:582][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.118
+[2022.06.25-17.18.46:582][  0]Cmd: MAP LOAD FILE="../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-17.18.46:582][  0]LightingResults: New page: 라이팅 빌드
+[2022.06.25-17.18.46:588][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-17.18.46:588][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.18.46:588][  0]MapCheck: New page: 맵 체크
+[2022.06.25-17.18.46:588][  0]LightingResults: New page: 라이팅 빌드
+[2022.06.25-17.18.46:593][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-17.18.46:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.25-17.18.46:899][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.06.25-17.18.46:907][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.18.46:908][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.06.25-17.18.46:908][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.25-17.18.46:908][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.06.25-17.18.46:962][  0]LogWorldPartition: Display: WorldPartition initialize took 54 ms
+[2022.06.25-17.18.46:966][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-17.18.46:973][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.25-17.18.46:973][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-17.18.46:974][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.189ms.
+[2022.06.25-17.18.46:974][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.392
+[2022.06.25-17.18.46:987][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.523
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.25-17.18.46:987][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-17.18.47:113][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.18.47:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.18.47:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.18.47:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.18.47:172][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:172][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:173][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:173][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:173][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:173][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:174][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:174][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:174][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:174][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:175][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:175][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:175][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:175][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:175][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:175][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:176][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:176][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:176][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.25-17.18.47:176][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-17.18.47:270][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-17.18.47:272][  0]LogSlate: Took 0.001231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.06.25-17.18.47:274][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.25-17.18.47:274][  0]LogSlate: Took 0.000063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.25-17.18.47:275][  0]LogSlate: Took 0.001079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.06.25-17.18.47:276][  0]LogSlate: Took 0.000992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.06.25-17.18.47:298][  0]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.06.25-17.18.47:644][  0]LogStall: Startup...
+[2022.06.25-17.18.47:645][  0]LogStall: Startup complete.
+[2022.06.25-17.18.47:672][  0]LogLoad: (Engine Initialization) Total time: 9.21 seconds
+[2022.06.25-17.18.47:672][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.25-17.18.47:689][  0]LogAssetRegistry: Asset discovery search completed in 5.9351 seconds
+[2022.06.25-17.18.47:692][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.25-17.18.47:694][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.25-17.18.47:720][  0]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.25-17.19.51:067][620]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.25-17.19.51:074][620]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.25-17.19.53:858][865]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.25-17.19.55:992][865]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.06.25-17.19.56:037][865]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.25-17.19.56:048][865]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.25-17.19.56:078][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.06.25-17.20.03:988][618]LogContentBrowser: Attempting asset rename: NewBlueprint -> UDP
+[2022.06.25-17.20.03:996][618]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.25-17.20.04:934][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP
+[2022.06.25-17.20.04:935][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.20.06:000][710]LogViewport: Scene viewport resized to 1040x717, mode Windowed.
+[2022.06.25-17.20.24:685][415]LogUObjectGlobals: Warning: 'Class 없음.SIOJJsonObject' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.25-17.20.24:685][415]LogUObjectGlobals: Warning: 'Class 없음.SIOJJsonObject' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.25-17.20.40:602][819]LogDerivedDataCache: C:/Users/CEY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.041 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.25-17.22.23:469][910]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.25-17.24.16:751][289]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.06.25-17.24.16:756][289]LogWorldPartition: Display: GenerateStreaming started...
+[2022.06.25-17.24.16:756][289]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.06.25-17.24.16:756][289]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.24.16:757][289]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.06.25-17.24.16:757][289]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.06.25-17.24.16:757][289]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2022.06.25-17.24.16:757][289]LogWorldPartition: Display: GenerateStreaming took 276 us
+[2022.06.25-17.24.16:757][289]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.06.25-17.24.16:757][289]LogPlayLevel: [PlayLevel] Compiling UDP before play...
+[2022.06.25-17.24.16:801][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.25-17.24.16:802][289]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2022.06.25-17.24.16:803][289]PIE: New page: PIE 세션: ThirdPersonMap (2022. 6. 26. 오전 11:24:16)
+[2022.06.25-17.24.16:806][289]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.25-17.24.16:806][289]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.25-17.24.16:806][289]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.24.16:810][289]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.06.25-17.24.16:810][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003696s)
+[2022.06.25-17.24.16:810][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003755s)
+[2022.06.25-17.24.16:810][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.24.16:810][289]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.06.25-17.24.16:811][289]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.25-17.24.16:811][289]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.06.25-17.24.16:812][289]LogWorldPartition: Display: WorldPartition initialize took 870 us
+[2022.06.25-17.24.16:812][289]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2022.06.25-17.24.16:836][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.25-17.24.16:836][289]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-17.24.16:836][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-17.24.16:836][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-17.24.16:837][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-17.24.16:837][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-17.24.16:837][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-17.24.16:838][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-17.24.16:848][289]LogAudioMixer: Display: Using Audio Hardware Device LG HDR QHD(NVIDIA High Definition Audio)
+[2022.06.25-17.24.16:848][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-17.24.16:849][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-17.24.16:849][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-17.24.16:850][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.25-17.24.16:850][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.25-17.24.16:851][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.25-17.24.16:851][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.25-17.24.16:851][289]LogInit: FAudioDevice initialized.
+[2022.06.25-17.24.16:851][289]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.06.25-17.24.16:872][289]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.06.25-17.24.16:875][289]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.06.26-02.24.16
+[2022.06.25-17.24.16:875][289]LogWorld: Bringing up level for play took: 0.003621
+[2022.06.25-17.24.16:877][289]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.06.25-17.24.16:895][289]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.06.25-17.24.16:895][289]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.24.16:895][289]PIE: 서버가 로그인했습니다.
+[2022.06.25-17.24.16:896][289]PIE: 에디터에서 플레이 총 시작 시간 0.141초입니다.
+[2022.06.25-17.24.17:373][301]LogUObjectGlobals: Warning: 'Class 없음.SIOJJsonObject' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.25-17.24.17:373][301]LogUObjectGlobals: Warning: 'Class 없음.SIOJJsonObject' 오브젝트를 찾는 데 실패했습니다.
+[2022.06.25-17.24.18:213][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.24.18:213][380]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.24.18:213][380]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-17.24.18:214][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.24.18:224][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-17.24.18:228][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.24.18:256][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-17.24.18:257][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-17.24.18:258][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-17.24.18:261][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.24.18:281][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.25-17.24.18:310][381]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.06.25-17.24.23:107][786]BlueprintLog: New page: UDP 컴파일
+[2022.06.25-17.24.23:154][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.06.25-17.24.24:606][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UDP" FILE="../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Blueprints/UDP.uasset" SILENT=true
+[2022.06.25-17.24.24:614][915]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007448 seconds
+[2022.06.25-17.24.24:619][915]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UDP
+[2022.06.25-17.24.24:619][915]LogSavePackage: Moving '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Saved/UDP68004FB24DF6942362CC5086EEF951F2.tmp' to '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Blueprints/UDP.uasset'
+[2022.06.25-17.24.24:639][915]AssetCheck: New page: 에셋 저장:  UDP
+[2022.06.25-17.24.24:639][915]LogContentValidation: Display: Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP 유효성 검사 중
+[2022.06.25-17.24.26:610][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/UDP.UDP_C
+[2022.06.25-17.24.26:610][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/UDP.UDP_C
+[2022.06.25-17.24.26:611][103]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP as actor: UDP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.UDP_C_0
+[2022.06.25-17.24.26:611][103]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP as actor: UDP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.UDP_C_0
+[2022.06.25-17.24.27:740][234]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/UDP.UDP_C
+[2022.06.25-17.24.27:740][234]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/UDP.UDP_C
+[2022.06.25-17.24.27:742][234]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP as actor: UDP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.UDP_C_UAID_7085C2F802E81E1D01_2125748063
+[2022.06.25-17.24.27:742][234]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP as actor: UDP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.UDP_C_UAID_7085C2F802E81E1D01_2125748063
+[2022.06.25-17.24.29:114][360]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3M/JPU30EW1MZ0ZWV8L1HLNAR
+[2022.06.25-17.24.29:114][360]LogSavePackage: Moving '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Saved/JPU30EW1MZ0ZWV8L1HLNAR74C37F6248CF16D11D906E83A588BA71.tmp' to '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3M/JPU30EW1MZ0ZWV8L1HLNAR.uasset'
+[2022.06.25-17.24.29:135][360]AssetCheck: New page: 에셋 저장:  UDP_C_UAID_7085C2F802E81E1D01_2125748063
+[2022.06.25-17.24.29:135][360]LogContentValidation: Display: UDP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.UDP_C_UAID_7085C2F802E81E1D01_2125748063 유효성 검사 중
+[2022.06.25-17.24.30:174][466]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Display: GenerateStreaming started...
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Display: GetPartitionedActors took 44 us
+[2022.06.25-17.24.30:180][466]LogWorldPartition: Display: GenerateStreaming took 245 us
+[2022.06.25-17.24.30:183][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-17.24.30:183][466]PIE: New page: PIE 세션: ThirdPersonMap (2022. 6. 26. 오전 11:24:30)
+[2022.06.25-17.24.30:183][466]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.24.30:187][466]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.06.25-17.24.30:187][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003905s)
+[2022.06.25-17.24.30:187][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003955s)
+[2022.06.25-17.24.30:187][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.24.30:188][466]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.06.25-17.24.30:188][466]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.25-17.24.30:188][466]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.06.25-17.24.30:189][466]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.06.25-17.24.30:189][466]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2022.06.25-17.24.30:218][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.06.25-17.24.30:220][466]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-17.24.30:220][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-17.24.30:220][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-17.24.30:221][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-17.24.30:221][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-17.24.30:221][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-17.24.30:222][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-17.24.30:233][466]LogAudioMixer: Display: Using Audio Hardware Device LG HDR QHD(NVIDIA High Definition Audio)
+[2022.06.25-17.24.30:233][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-17.24.30:233][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-17.24.30:233][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-17.24.30:234][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.25-17.24.30:234][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.25-17.24.30:235][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.25-17.24.30:235][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.25-17.24.30:235][466]LogInit: FAudioDevice initialized.
+[2022.06.25-17.24.30:235][466]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.06.25-17.24.30:244][466]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.06.25-17.24.30:246][466]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.06.26-02.24.30
+[2022.06.25-17.24.30:247][466]LogWorld: Bringing up level for play took: 0.002790
+[2022.06.25-17.24.30:248][466]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.25-17.24.30:251][466]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.06.25-17.24.30:251][466]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.24.30:252][466]PIE: 서버가 로그인했습니다.
+[2022.06.25-17.24.30:253][466]PIE: 에디터에서 플레이 총 시작 시간 0.073초입니다.
+[2022.06.25-17.24.30:357][470]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_2
+[2022.06.25-17.24.30:481][482]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_3
+[2022.06.25-17.24.30:600][494]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_4
+[2022.06.25-17.24.30:723][507]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_5
+[2022.06.25-17.24.30:846][520]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_6
+[2022.06.25-17.24.30:969][531]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_7
+[2022.06.25-17.24.31:093][543]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_8
+[2022.06.25-17.24.31:212][555]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_9
+[2022.06.25-17.24.31:337][567]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_10
+[2022.06.25-17.24.31:459][579]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_11
+[2022.06.25-17.24.31:581][592]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_12
+[2022.06.25-17.24.31:705][605]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_13
+[2022.06.25-17.24.31:826][617]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_14
+[2022.06.25-17.24.31:949][629]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_15
+[2022.06.25-17.24.32:072][641]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_16
+[2022.06.25-17.24.32:194][653]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_17
+[2022.06.25-17.24.32:315][665]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_18
+[2022.06.25-17.24.32:437][677]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_19
+[2022.06.25-17.24.32:560][690]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_20
+[2022.06.25-17.24.32:684][702]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_21
+[2022.06.25-17.24.32:806][714]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_22
+[2022.06.25-17.24.32:928][726]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_23
+[2022.06.25-17.24.33:052][738]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_24
+[2022.06.25-17.24.33:172][750]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_25
+[2022.06.25-17.24.33:296][763]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_26
+[2022.06.25-17.24.33:418][775]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_27
+[2022.06.25-17.24.33:541][787]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_28
+[2022.06.25-17.24.33:662][799]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_29
+[2022.06.25-17.24.33:787][812]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_30
+[2022.06.25-17.24.33:906][824]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_31
+[2022.06.25-17.24.34:092][842]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_32
+[2022.06.25-17.24.34:214][854]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_33
+[2022.06.25-17.24.34:339][867]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_34
+[2022.06.25-17.24.34:460][880]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_35
+[2022.06.25-17.24.34:583][892]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_36
+[2022.06.25-17.24.34:705][904]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_37
+[2022.06.25-17.24.34:825][917]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_38
+[2022.06.25-17.24.34:946][929]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_39
+[2022.06.25-17.24.35:068][941]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_40
+[2022.06.25-17.24.35:195][953]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_41
+[2022.06.25-17.24.35:315][965]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_42
+[2022.06.25-17.24.35:435][977]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_43
+[2022.06.25-17.24.35:559][990]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_44
+[2022.06.25-17.24.35:681][  2]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_45
+[2022.06.25-17.24.35:806][ 14]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_46
+[2022.06.25-17.24.35:925][ 25]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_47
+[2022.06.25-17.24.36:046][ 37]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_48
+[2022.06.25-17.24.36:170][ 49]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_49
+[2022.06.25-17.24.36:292][ 61]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_50
+[2022.06.25-17.24.36:414][ 73]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_51
+[2022.06.25-17.24.36:536][ 85]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_52
+[2022.06.25-17.24.36:658][ 97]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_53
+[2022.06.25-17.24.36:781][109]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_54
+[2022.06.25-17.24.36:908][122]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_55
+[2022.06.25-17.24.37:030][135]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_56
+[2022.06.25-17.24.37:152][147]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_57
+[2022.06.25-17.24.37:274][158]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_58
+[2022.06.25-17.24.37:397][171]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_59
+[2022.06.25-17.24.37:830][181]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_60
+[2022.06.25-17.24.37:830][181]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_61
+[2022.06.25-17.24.37:830][181]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_62
+[2022.06.25-17.24.38:170][182]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_63
+[2022.06.25-17.24.38:170][182]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_64
+[2022.06.25-17.24.38:505][183]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_65
+[2022.06.25-17.24.38:506][183]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_66
+[2022.06.25-17.24.38:506][183]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_67
+[2022.06.25-17.24.38:843][184]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_68
+[2022.06.25-17.24.38:843][184]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_69
+[2022.06.25-17.24.38:843][184]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_70
+[2022.06.25-17.24.39:176][185]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_71
+[2022.06.25-17.24.39:176][185]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_72
+[2022.06.25-17.24.39:176][185]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_73
+[2022.06.25-17.24.39:509][186]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_74
+[2022.06.25-17.24.39:509][186]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_75
+[2022.06.25-17.24.39:842][187]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_76
+[2022.06.25-17.24.39:842][187]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_77
+[2022.06.25-17.24.39:843][187]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_78
+[2022.06.25-17.24.40:176][188]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_79
+[2022.06.25-17.24.40:176][188]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_80
+[2022.06.25-17.24.40:176][188]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_81
+[2022.06.25-17.24.40:516][189]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_82
+[2022.06.25-17.24.40:516][189]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_83
+[2022.06.25-17.24.40:516][189]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_84
+[2022.06.25-17.24.40:848][190]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_85
+[2022.06.25-17.24.40:848][190]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_86
+[2022.06.25-17.24.41:183][191]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_87
+[2022.06.25-17.24.41:183][191]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_88
+[2022.06.25-17.24.41:184][191]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_89
+[2022.06.25-17.24.41:516][192]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_90
+[2022.06.25-17.24.41:517][192]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_91
+[2022.06.25-17.24.41:519][192]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_92
+[2022.06.25-17.24.41:846][193]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_93
+[2022.06.25-17.24.41:846][193]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_94
+[2022.06.25-17.24.41:889][197]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_95
+[2022.06.25-17.24.42:015][201]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_96
+[2022.06.25-17.24.42:137][209]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_97
+[2022.06.25-17.24.42:309][226]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_98
+[2022.06.25-17.24.42:432][239]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_99
+[2022.06.25-17.24.42:560][251]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_100
+[2022.06.25-17.24.42:678][261]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_101
+[2022.06.25-17.24.42:800][273]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_102
+[2022.06.25-17.24.42:923][285]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_103
+[2022.06.25-17.24.43:047][298]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_104
+[2022.06.25-17.24.43:171][310]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_105
+[2022.06.25-17.24.43:293][322]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_106
+[2022.06.25-17.24.43:416][334]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_107
+[2022.06.25-17.24.43:539][346]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_108
+[2022.06.25-17.24.43:664][358]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_109
+[2022.06.25-17.24.43:787][370]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_110
+[2022.06.25-17.24.43:910][382]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_111
+[2022.06.25-17.24.44:032][394]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_112
+[2022.06.25-17.24.44:155][406]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_113
+[2022.06.25-17.24.44:277][418]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_114
+[2022.06.25-17.24.44:399][430]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_115
+[2022.06.25-17.24.44:522][443]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_116
+[2022.06.25-17.24.44:644][455]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_117
+[2022.06.25-17.24.44:767][468]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_118
+[2022.06.25-17.24.44:893][479]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_119
+[2022.06.25-17.24.45:017][491]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_120
+[2022.06.25-17.24.45:138][503]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_121
+[2022.06.25-17.24.45:263][516]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_122
+[2022.06.25-17.24.45:385][528]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_123
+[2022.06.25-17.24.45:508][541]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_124
+[2022.06.25-17.24.45:630][553]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_125
+[2022.06.25-17.24.45:753][566]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_126
+[2022.06.25-17.24.45:877][578]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_127
+[2022.06.25-17.24.46:000][591]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_128
+[2022.06.25-17.24.46:121][603]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_129
+[2022.06.25-17.24.46:243][615]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_130
+[2022.06.25-17.24.46:412][629]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_131
+[2022.06.25-17.24.46:538][642]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_132
+[2022.06.25-17.24.46:659][654]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_133
+[2022.06.25-17.24.46:780][666]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_134
+[2022.06.25-17.24.46:900][678]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_135
+[2022.06.25-17.24.47:025][691]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_136
+[2022.06.25-17.24.47:147][703]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_137
+[2022.06.25-17.24.47:271][715]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_138
+[2022.06.25-17.24.47:392][727]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_139
+[2022.06.25-17.24.47:519][740]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_140
+[2022.06.25-17.24.47:637][752]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_141
+[2022.06.25-17.24.47:761][764]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_142
+[2022.06.25-17.24.47:882][776]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_143
+[2022.06.25-17.24.48:006][789]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_144
+[2022.06.25-17.24.48:127][801]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_145
+[2022.06.25-17.24.48:249][813]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_146
+[2022.06.25-17.24.48:370][825]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_147
+[2022.06.25-17.24.48:493][837]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_148
+[2022.06.25-17.24.48:616][849]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_149
+[2022.06.25-17.24.48:738][861]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_150
+[2022.06.25-17.24.48:863][874]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_151
+[2022.06.25-17.24.48:986][886]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_152
+[2022.06.25-17.24.49:106][898]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_153
+[2022.06.25-17.24.49:229][910]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_154
+[2022.06.25-17.24.49:352][922]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_155
+[2022.06.25-17.24.49:474][934]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_156
+[2022.06.25-17.24.49:598][946]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_157
+[2022.06.25-17.24.49:721][958]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_158
+[2022.06.25-17.24.49:841][970]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_159
+[2022.06.25-17.24.49:965][982]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_160
+[2022.06.25-17.24.50:088][994]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_161
+[2022.06.25-17.24.50:208][  6]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_162
+[2022.06.25-17.24.50:332][ 18]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_163
+[2022.06.25-17.24.50:516][ 36]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_164
+[2022.06.25-17.24.50:638][ 48]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_165
+[2022.06.25-17.24.50:762][ 60]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_166
+[2022.06.25-17.24.50:886][ 72]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_167
+[2022.06.25-17.24.51:010][ 85]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_168
+[2022.06.25-17.24.51:132][ 97]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_169
+[2022.06.25-17.24.51:253][109]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_170
+[2022.06.25-17.24.51:378][120]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_171
+[2022.06.25-17.24.51:500][132]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_172
+[2022.06.25-17.24.51:622][145]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_173
+[2022.06.25-17.24.51:746][157]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_174
+[2022.06.25-17.24.51:867][169]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_175
+[2022.06.25-17.24.51:989][182]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_176
+[2022.06.25-17.24.52:113][195]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_177
+[2022.06.25-17.24.52:236][208]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_178
+[2022.06.25-17.24.52:356][220]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_179
+[2022.06.25-17.24.52:481][233]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_180
+[2022.06.25-17.24.52:603][246]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_181
+[2022.06.25-17.24.52:727][259]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_182
+[2022.06.25-17.24.52:847][270]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_183
+[2022.06.25-17.24.52:971][283]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_184
+[2022.06.25-17.24.53:104][296]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_185
+[2022.06.25-17.24.53:218][309]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] SIOJsonObject_186
+[2022.06.25-17.24.53:274][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.24.53:274][310]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.24.53:316][310]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-17.24.53:317][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.24.53:332][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-17.24.53:338][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.24.53:369][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-17.24.53:369][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.25-17.24.53:370][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.06.25-17.24.53:373][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.24.53:375][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.06.25-17.24.53:406][311]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.25-17.25.15:857][476]BlueprintLog: New page: UDP 컴파일
+[2022.06.25-17.25.15:908][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.06.25-17.25.16:301][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UDP" FILE="../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Blueprints/UDP.uasset" SILENT=true
+[2022.06.25-17.25.16:305][508]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UDP
+[2022.06.25-17.25.16:306][508]LogSavePackage: Moving '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Saved/UDPBEAAA7DA4064349308AAE1AF1DE07235.tmp' to '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Blueprints/UDP.uasset'
+[2022.06.25-17.25.16:320][508]AssetCheck: New page: 에셋 저장:  UDP
+[2022.06.25-17.25.16:321][508]LogContentValidation: Display: Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP 유효성 검사 중
+[2022.06.25-17.25.17:203][585]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Display: GenerateStreaming started...
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.06.25-17.25.17:209][585]LogWorldPartition: Display: GenerateStreaming took 280 us
+[2022.06.25-17.25.17:209][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-17.25.17:209][585]PIE: New page: PIE 세션: ThirdPersonMap (2022. 6. 26. 오전 11:25:17)
+[2022.06.25-17.25.17:209][585]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.25.17:214][585]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.06.25-17.25.17:214][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004334s)
+[2022.06.25-17.25.17:214][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004385s)
+[2022.06.25-17.25.17:214][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.25.17:214][585]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.06.25-17.25.17:215][585]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.25-17.25.17:215][585]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.06.25-17.25.17:216][585]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.06.25-17.25.17:216][585]LogPlayLevel: PIE: World Init took: (0.001959s)
+[2022.06.25-17.25.17:243][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.06.25-17.25.17:243][585]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-17.25.17:243][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-17.25.17:243][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-17.25.17:244][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-17.25.17:244][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-17.25.17:244][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-17.25.17:245][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-17.25.17:255][585]LogAudioMixer: Display: Using Audio Hardware Device LG HDR QHD(NVIDIA High Definition Audio)
+[2022.06.25-17.25.17:256][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-17.25.17:256][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-17.25.17:256][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-17.25.17:256][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.06.25-17.25.17:256][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.06.25-17.25.17:257][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.06.25-17.25.17:257][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.06.25-17.25.17:257][585]LogInit: FAudioDevice initialized.
+[2022.06.25-17.25.17:257][585]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2022.06.25-17.25.17:278][585]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.06.25-17.25.17:283][585]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.06.26-02.25.17
+[2022.06.25-17.25.17:283][585]LogWorld: Bringing up level for play took: 0.005239
+[2022.06.25-17.25.17:285][585]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.06.25-17.25.17:287][585]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.06.25-17.25.17:287][585]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.25.17:289][585]PIE: 서버가 로그인했습니다.
+[2022.06.25-17.25.17:289][585]PIE: 에디터에서 플레이 총 시작 시간 0.082초입니다.
+[2022.06.25-17.25.17:408][589]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 19,
+ "x": 0.505086362361908,
+ "y": 0.3850729465484619,
+ "z": -0.20057626068592072
+}
+[2022.06.25-17.25.17:528][599]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 20,
+ "x": 0.4387858808040619,
+ "y": 0.38509777188301086,
+ "z": -0.4334789514541626
+}
+[2022.06.25-17.25.17:650][611]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 21,
+ "x": 0.5013692378997803,
+ "y": 0.39013856649398804,
+ "z": -0.17791447043418884
+}
+[2022.06.25-17.25.17:776][623]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 22,
+ "x": 0.4365370273590088,
+ "y": 0.38849255442619324,
+ "z": -0.4027963876724243
+}
+[2022.06.25-17.25.17:893][634]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 23,
+ "x": 0.43523943424224854,
+ "y": 0.5743911266326904,
+ "z": 0.0670180693268776
+}
+[2022.06.25-17.25.18:020][646]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 24,
+ "x": 0.39956730604171753,
+ "y": 0.5714978575706482,
+ "z": -0.06718102097511292
+}
+[2022.06.25-17.25.18:139][657]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 25,
+ "x": 0.4431819021701813,
+ "y": 0.7267553806304932,
+ "z": 0.07461019605398178
+}
+[2022.06.25-17.25.18:261][669]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 26,
+ "x": 0.4051925241947174,
+ "y": 0.7303521633148193,
+ "z": -0.04182032495737076
+}
+[2022.06.25-17.25.18:380][681]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 27,
+ "x": 0.436227947473526,
+ "y": 0.8848778009414673,
+ "z": 0.14849284291267395
+}
+[2022.06.25-17.25.18:502][693]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 28,
+ "x": 0.38823291659355164,
+ "y": 0.873807430267334,
+ "z": 0.06642036139965057
+}
+[2022.06.25-17.25.18:628][705]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 29,
+ "x": 0.42573821544647217,
+ "y": 0.91053706407547,
+ "z": 0.14917844533920288
+}
+[2022.06.25-17.25.18:747][716]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 30,
+ "x": 0.3850851058959961,
+ "y": 0.8862311244010925,
+ "z": 0.07205042243003845
+}
+[2022.06.25-17.25.18:874][728]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 31,
+ "x": 0.4744367003440857,
+ "y": 0.9253371357917786,
+ "z": 0.06309298425912857
+}
+[2022.06.25-17.25.18:999][740]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 32,
+ "x": 0.38762325048446655,
+ "y": 0.9299686551094055,
+ "z": -0.028947200626134872
+}
+[2022.06.25-17.25.19:180][756]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 0,
+ "x": 0.4548106789588928,
+ "y": 0.28689539432525635,
+ "z": -0.22077226638793945
+}
+[2022.06.25-17.25.19:298][767]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 1,
+ "x": 0.45716392993927,
+ "y": 0.2757602334022522,
+ "z": -0.19964636862277985
+}
+[2022.06.25-17.25.19:422][779]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 2,
+ "x": 0.4590872824192047,
+ "y": 0.27641746401786804,
+ "z": -0.19967606663703918
+}
+[2022.06.25-17.25.19:549][791]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 3,
+ "x": 0.4609243869781494,
+ "y": 0.27712976932525635,
+ "z": -0.19968122243881226
+}
+[2022.06.25-17.25.19:667][802]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 4,
+ "x": 0.44958969950675964,
+ "y": 0.2732960879802704,
+ "z": -0.21251030266284943
+}
+[2022.06.25-17.25.19:794][814]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 5,
+ "x": 0.44638949632644653,
+ "y": 0.27255770564079285,
+ "z": -0.21251918375492096
+}
+[2022.06.25-17.25.19:921][826]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 6,
+ "x": 0.44337496161460876,
+ "y": 0.2719038128852844,
+ "z": -0.21253807842731476
+}
+[2022.06.25-17.25.20:039][838]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 7,
+ "x": 0.45955079793930054,
+ "y": 0.28451094031333923,
+ "z": -0.07921137660741806
+}
+[2022.06.25-17.25.20:165][850]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 8,
+ "x": 0.4366237223148346,
+ "y": 0.2785070836544037,
+ "z": -0.13574501872062683
+}
+[2022.06.25-17.25.20:282][861]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 9,
+ "x": 0.456618994474411,
+ "y": 0.3057336211204529,
+ "z": -0.17424626648426056
+}
+[2022.06.25-17.25.20:410][873]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 10,
+ "x": 0.44812875986099243,
+ "y": 0.30230486392974854,
+ "z": -0.19071538746356964
+}
+[2022.06.25-17.25.20:528][884]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 11,
+ "x": 0.4584045708179474,
+ "y": 0.37785738706588745,
+ "z": 0.051514528691768646
+}
+[2022.06.25-17.25.20:647][896]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 12,
+ "x": 0.41260847449302673,
+ "y": 0.36176374554634094,
+ "z": -0.12143935263156891
+}
+[2022.06.25-17.25.20:769][908]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 13,
+ "x": 0.46020811796188354,
+ "y": 0.47829705476760864,
+ "z": 0.014725148677825928
+}
+[2022.06.25-17.25.20:893][920]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 14,
+ "x": 0.39252305030822754,
+ "y": 0.4810531437397003,
+ "z": -0.22801096737384796
+}
+[2022.06.25-17.25.21:023][933]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 15,
+ "x": 0.4961995482444763,
+ "y": 0.41993486881256104,
+ "z": -0.17174886167049408
+}
+[2022.06.25-17.25.21:145][945]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 16,
+ "x": 0.427291601896286,
+ "y": 0.41836079955101013,
+ "z": -0.381487101316452
+}
+[2022.06.25-17.25.21:266][957]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 17,
+ "x": 0.5067830085754395,
+ "y": 0.40331655740737915,
+ "z": -0.2008984386920929
+}
+[2022.06.25-17.25.21:391][969]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 18,
+ "x": 0.438436359167099,
+ "y": 0.4051833748817444,
+ "z": -0.4157571494579315
+}
+[2022.06.25-17.25.21:507][980]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 19,
+ "x": 0.5072783827781677,
+ "y": 0.3920111656188965,
+ "z": -0.20568601787090302
+}
+[2022.06.25-17.25.21:629][992]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 20,
+ "x": 0.44058603048324585,
+ "y": 0.3931104838848114,
+ "z": -0.4146963655948639
+}
+[2022.06.25-17.25.21:754][  4]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 21,
+ "x": 0.5031704306602478,
+ "y": 0.3970789313316345,
+ "z": -0.17926155030727386
+}
+[2022.06.25-17.25.21:874][ 15]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 22,
+ "x": 0.43879181146621704,
+ "y": 0.3956506848335266,
+ "z": -0.3823094666004181
+}
+[2022.06.25-17.25.21:998][ 27]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 23,
+ "x": 0.4360346496105194,
+ "y": 0.5750437378883362,
+ "z": 0.0649556964635849
+}
+[2022.06.25-17.25.22:119][ 38]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 24,
+ "x": 0.40312105417251587,
+ "y": 0.5715644955635071,
+ "z": -0.06509949266910553
+}
+[2022.06.25-17.25.22:244][ 50]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 25,
+ "x": 0.44108855724334717,
+ "y": 0.7292191982269287,
+ "z": 0.06955843418836594
+}
+[2022.06.25-17.25.22:371][ 62]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 26,
+ "x": 0.40768834948539734,
+ "y": 0.7310847043991089,
+ "z": -0.04174913838505745
+}
+[2022.06.25-17.25.22:492][ 74]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 27,
+ "x": 0.43562543392181396,
+ "y": 0.8850603103637695,
+ "z": 0.14169077575206757
+}
+[2022.06.25-17.25.22:612][ 86]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 28,
+ "x": 0.38822489976882935,
+ "y": 0.8726047873497009,
+ "z": 0.06665825098752975
+}
+[2022.06.25-17.25.22:733][ 98]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 29,
+ "x": 0.4259823262691498,
+ "y": 0.9107300043106079,
+ "z": 0.1421157717704773
+}
+[2022.06.25-17.25.22:857][110]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 30,
+ "x": 0.3850155472755432,
+ "y": 0.8849642276763916,
+ "z": 0.07226290553808212
+}
+[2022.06.25-17.25.22:974][122]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 31,
+ "x": 0.47481250762939453,
+ "y": 0.9249529242515564,
+ "z": 0.05567536875605583
+}
+[2022.06.25-17.25.23:098][137]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 32,
+ "x": 0.3879844844341278,
+ "y": 0.9298005104064941,
+ "z": -0.028463898226618767
+}
+[2022.06.25-17.25.23:266][157]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 0,
+ "x": 0.4572245180606842,
+ "y": 0.28917157649993896,
+ "z": -0.22013160586357117
+}
+[2022.06.25-17.25.23:392][172]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 1,
+ "x": 0.4595080614089966,
+ "y": 0.27738794684410095,
+ "z": -0.19863995909690857
+}
+[2022.06.25-17.25.23:516][187]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 2,
+ "x": 0.46152812242507935,
+ "y": 0.2779172360897064,
+ "z": -0.1986646205186844
+}
+[2022.06.25-17.25.23:638][199]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 3,
+ "x": 0.4634421467781067,
+ "y": 0.27852144837379456,
+ "z": -0.1986607313156128
+}
+[2022.06.25-17.25.23:763][211]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 4,
+ "x": 0.45178133249282837,
+ "y": 0.27528005838394165,
+ "z": -0.21262119710445404
+}
+[2022.06.25-17.25.23:884][223]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 5,
+ "x": 0.44849640130996704,
+ "y": 0.27461063861846924,
+ "z": -0.21262997388839722
+}
+[2022.06.25-17.25.24:006][237]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 6,
+ "x": 0.445421427488327,
+ "y": 0.2739649713039398,
+ "z": -0.21265214681625366
+}
+[2022.06.25-17.25.24:128][250]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 7,
+ "x": 0.4620005488395691,
+ "y": 0.2857287526130676,
+ "z": -0.07779675722122192
+}
+[2022.06.25-17.25.24:252][262]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 8,
+ "x": 0.4388635754585266,
+ "y": 0.2801276743412018,
+ "z": -0.13690225780010223
+}
+[2022.06.25-17.25.24:370][273]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 9,
+ "x": 0.45953261852264404,
+ "y": 0.3077446222305298,
+ "z": -0.17240197956562042
+}
+[2022.06.25-17.25.24:496][285]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 10,
+ "x": 0.4508790671825409,
+ "y": 0.3047119081020355,
+ "z": -0.19031278789043427
+}
+[2022.06.25-17.25.24:622][297]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 11,
+ "x": 0.4597494304180145,
+ "y": 0.3793325126171112,
+ "z": 0.057561419904232025
+}
+[2022.06.25-17.25.24:741][308]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 12,
+ "x": 0.4161646366119385,
+ "y": 0.36315032839775085,
+ "z": -0.13135293126106262
+}
+[2022.06.25-17.25.24:867][320]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 13,
+ "x": 0.46191540360450745,
+ "y": 0.478024959564209,
+ "z": 0.024797813966870308
+}
+[2022.06.25-17.25.24:988][331]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 14,
+ "x": 0.397387832403183,
+ "y": 0.4830095171928406,
+ "z": -0.24966855347156525
+}
+[2022.06.25-17.25.25:113][343]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 15,
+ "x": 0.49675068259239197,
+ "y": 0.42011240124702454,
+ "z": -0.15168987214565277
+}
+[2022.06.25-17.25.25:238][355]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 16,
+ "x": 0.4316391050815582,
+ "y": 0.42095494270324707,
+ "z": -0.4040015637874603
+}
+[2022.06.25-17.25.25:358][367]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 17,
+ "x": 0.5074549317359924,
+ "y": 0.40409961342811584,
+ "z": -0.1780182421207428
+}
+[2022.06.25-17.25.25:480][379]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 18,
+ "x": 0.4419918954372406,
+ "y": 0.40847745537757874,
+ "z": -0.4397197961807251
+}
+[2022.06.25-17.25.25:603][391]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 19,
+ "x": 0.5080600380897522,
+ "y": 0.3927838206291199,
+ "z": -0.18215656280517578
+}
+[2022.06.25-17.25.25:733][404]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 20,
+ "x": 0.44398653507232666,
+ "y": 0.3962271511554718,
+ "z": -0.4365317225456238
+}
+[2022.06.25-17.25.25:851][416]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 21,
+ "x": 0.5037170648574829,
+ "y": 0.3984649181365967,
+ "z": -0.15860755741596222
+}
+[2022.06.25-17.25.25:973][428]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 22,
+ "x": 0.4422823190689087,
+ "y": 0.3980976343154907,
+ "z": -0.4036959111690521
+}
+[2022.06.25-17.25.26:098][440]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 23,
+ "x": 0.4364347457885742,
+ "y": 0.5756644010543823,
+ "z": 0.06903785467147827
+}
+[2022.06.25-17.25.26:217][452]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 24,
+ "x": 0.4054945409297943,
+ "y": 0.5724839568138123,
+ "z": -0.0691881850361824
+}
+[2022.06.25-17.25.26:337][464]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 25,
+ "x": 0.4390127658843994,
+ "y": 0.7297182679176331,
+ "z": 0.0761093944311142
+}
+[2022.06.25-17.25.26:463][476]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 26,
+ "x": 0.4137319326400757,
+ "y": 0.7299519181251526,
+ "z": -0.04206940159201622
+}
+[2022.06.25-17.25.26:580][487]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 27,
+ "x": 0.43493080139160156,
+ "y": 0.8850946426391602,
+ "z": 0.14675326645374298
+}
+[2022.06.25-17.25.26:704][499]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 28,
+ "x": 0.38781288266181946,
+ "y": 0.8690387010574341,
+ "z": 0.069686658680439
+}
+[2022.06.25-17.25.26:830][511]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 29,
+ "x": 0.42602720856666565,
+ "y": 0.9108648300170898,
+ "z": 0.1470930427312851
+}
+[2022.06.25-17.25.26:955][523]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 30,
+ "x": 0.38383883237838745,
+ "y": 0.8818030953407288,
+ "z": 0.0758671760559082
+}
+[2022.06.25-17.25.27:076][535]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 31,
+ "x": 0.4745906889438629,
+ "y": 0.9244064688682556,
+ "z": 0.06400568038225174
+}
+[2022.06.25-17.25.27:195][546]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 32,
+ "x": 0.3880822956562042,
+ "y": 0.929439127445221,
+ "z": -0.02558249421417713
+}
+[2022.06.25-17.25.27:382][563]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 0,
+ "x": 0.4592307209968567,
+ "y": 0.29032373428344727,
+ "z": -0.2194773405790329
+}
+[2022.06.25-17.25.27:507][575]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 1,
+ "x": 0.46151942014694214,
+ "y": 0.27840176224708557,
+ "z": -0.19748659431934357
+}
+[2022.06.25-17.25.27:624][586]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 2,
+ "x": 0.4635263681411743,
+ "y": 0.2789132297039032,
+ "z": -0.1975058764219284
+}
+[2022.06.25-17.25.27:746][598]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 3,
+ "x": 0.4654252827167511,
+ "y": 0.27947932481765747,
+ "z": -0.1974925398826599
+}
+[2022.06.25-17.25.27:902][604]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 4,
+ "x": 0.45417100191116333,
+ "y": 0.2763761579990387,
+ "z": -0.2111915647983551
+}
+[2022.06.25-17.25.27:998][612]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 5,
+ "x": 0.451019287109375,
+ "y": 0.2756958305835724,
+ "z": -0.21120020747184753
+}
+[2022.06.25-17.25.28:118][624]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 6,
+ "x": 0.44791439175605774,
+ "y": 0.275018572807312,
+ "z": -0.21121950447559357
+}
+[2022.06.25-17.25.28:239][636]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 7,
+ "x": 0.46439558267593384,
+ "y": 0.2868764102458954,
+ "z": -0.076609306037426
+}
+[2022.06.25-17.25.28:357][647]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 8,
+ "x": 0.44105264544487,
+ "y": 0.28126031160354614,
+ "z": -0.1338902860879898
+}
+[2022.06.25-17.25.28:484][659]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 9,
+ "x": 0.46168291568756104,
+ "y": 0.30895504355430603,
+ "z": -0.1716100424528122
+}
+[2022.06.25-17.25.28:606][670]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 10,
+ "x": 0.45292869210243225,
+ "y": 0.3060927093029022,
+ "z": -0.18944288790225983
+}
+[2022.06.25-17.25.28:732][682]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 11,
+ "x": 0.4622509479522705,
+ "y": 0.3804512321949005,
+ "z": 0.05359591543674469
+}
+[2022.06.25-17.25.28:848][693]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 12,
+ "x": 0.4183802306652069,
+ "y": 0.3644350469112396,
+ "z": -0.13235586881637573
+}
+[2022.06.25-17.25.28:970][705]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 13,
+ "x": 0.4629293382167816,
+ "y": 0.4783889651298523,
+ "z": 0.013221118599176407
+}
+[2022.06.25-17.25.29:091][717]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 14,
+ "x": 0.40238484740257263,
+ "y": 0.48429426550865173,
+ "z": -0.2608415186405182
+}
+[2022.06.25-17.25.29:213][729]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 15,
+ "x": 0.495526522397995,
+ "y": 0.4206119477748871,
+ "z": -0.16588179767131805
+}
+[2022.06.25-17.25.29:339][742]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 16,
+ "x": 0.43769094347953796,
+ "y": 0.41873863339424133,
+ "z": -0.4143870174884796
+}
+[2022.06.25-17.25.29:462][754]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 17,
+ "x": 0.5059528350830078,
+ "y": 0.4046574831008911,
+ "z": -0.1932593584060669
+}
+[2022.06.25-17.25.29:587][766]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 18,
+ "x": 0.4471142888069153,
+ "y": 0.40400540828704834,
+ "z": -0.4502747058868408
+}
+[2022.06.25-17.25.29:704][777]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 19,
+ "x": 0.5068469643592834,
+ "y": 0.3940984010696411,
+ "z": -0.19641508162021637
+}
+[2022.06.25-17.25.29:833][789]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 20,
+ "x": 0.4487608075141907,
+ "y": 0.39094632863998413,
+ "z": -0.4448184370994568
+}
+[2022.06.25-17.25.29:958][801]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 21,
+ "x": 0.5023857355117798,
+ "y": 0.3994530439376831,
+ "z": -0.17261360585689545
+}
+[2022.06.25-17.25.30:074][812]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 22,
+ "x": 0.44709518551826477,
+ "y": 0.3938765525817871,
+ "z": -0.4132996201515198
+}
+[2022.06.25-17.25.30:196][824]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 23,
+ "x": 0.43737873435020447,
+ "y": 0.5768386125564575,
+ "z": 0.06866858154535294
+}
+[2022.06.25-17.25.30:317][835]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 24,
+ "x": 0.40779632329940796,
+ "y": 0.5732942223548889,
+ "z": -0.06883895397186279
+}
+[2022.06.25-17.25.30:438][847]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 25,
+ "x": 0.44018253684043884,
+ "y": 0.7302020192146301,
+ "z": 0.0802217349410057
+}
+[2022.06.25-17.25.30:563][859]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 26,
+ "x": 0.41940245032310486,
+ "y": 0.7300573587417603,
+ "z": -0.04146333038806915
+}
+[2022.06.25-17.25.30:685][871]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 27,
+ "x": 0.434420108795166,
+ "y": 0.885265052318573,
+ "z": 0.1541510820388794
+}
+[2022.06.25-17.25.30:819][883]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 28,
+ "x": 0.38781195878982544,
+ "y": 0.8671355247497559,
+ "z": 0.07112526893615723
+}
+[2022.06.25-17.25.30:931][895]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 29,
+ "x": 0.4263353645801544,
+ "y": 0.9108967781066895,
+ "z": 0.1550116389989853
+}
+[2022.06.25-17.25.31:053][907]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 30,
+ "x": 0.38353121280670166,
+ "y": 0.8798730969429016,
+ "z": 0.07861542701721191
+}
+[2022.06.25-17.25.31:177][919]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 31,
+ "x": 0.47422611713409424,
+ "y": 0.9244934916496277,
+ "z": 0.07257603108882904
+}
+[2022.06.25-17.25.31:299][931]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 32,
+ "x": 0.38723674416542053,
+ "y": 0.9292824864387512,
+ "z": -0.015642551705241203
+}
+[2022.06.25-17.25.31:488][948]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 0,
+ "x": 0.46211665868759155,
+ "y": 0.29111602902412415,
+ "z": -0.22318264842033386
+}
+[2022.06.25-17.25.31:609][960]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 1,
+ "x": 0.4643456041812897,
+ "y": 0.27907878160476685,
+ "z": -0.2003846913576126
+}
+[2022.06.25-17.25.31:729][971]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 2,
+ "x": 0.4662749171257019,
+ "y": 0.27954256534576416,
+ "z": -0.2003960758447647
+}
+[2022.06.25-17.25.31:856][983]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 3,
+ "x": 0.4681502878665924,
+ "y": 0.28003180027008057,
+ "z": -0.2003764510154724
+}
+[2022.06.25-17.25.31:974][994]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 4,
+ "x": 0.4571695327758789,
+ "y": 0.27720746397972107,
+ "z": -0.21495214104652405
+}
+[2022.06.25-17.25.32:101][  6]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 5,
+ "x": 0.45403391122817993,
+ "y": 0.2765861749649048,
+ "z": -0.21496079862117767
+}
+[2022.06.25-17.25.32:227][ 18]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 6,
+ "x": 0.4509224593639374,
+ "y": 0.2759735584259033,
+ "z": -0.2149730622768402
+}
+[2022.06.25-17.25.32:347][ 29]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 7,
+ "x": 0.46714892983436584,
+ "y": 0.2873428165912628,
+ "z": -0.07562322169542313
+}
+[2022.06.25-17.25.32:473][ 41]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 8,
+ "x": 0.4438292980194092,
+ "y": 0.2824114263057709,
+ "z": -0.1384173482656479
+}
+[2022.06.25-17.25.32:593][ 52]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 9,
+ "x": 0.4648028016090393,
+ "y": 0.3096754848957062,
+ "z": -0.1745131015777588
+}
+[2022.06.25-17.25.32:720][ 64]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 10,
+ "x": 0.45588940382003784,
+ "y": 0.30692729353904724,
+ "z": -0.19359514117240906
+}
+[2022.06.25-17.25.32:838][ 75]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 11,
+ "x": 0.4638483226299286,
+ "y": 0.3810039162635803,
+ "z": 0.05128736421465874
+}
+[2022.06.25-17.25.32:964][ 87]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 12,
+ "x": 0.4214058518409729,
+ "y": 0.3658028542995453,
+ "z": -0.13974453508853912
+}
+[2022.06.25-17.25.33:085][ 98]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 13,
+ "x": 0.46352577209472656,
+ "y": 0.4788573384284973,
+ "z": 0.008936579339206219
+}
+[2022.06.25-17.25.33:210][110]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 14,
+ "x": 0.40727323293685913,
+ "y": 0.48535972833633423,
+ "z": -0.2702515721321106
+}
+[2022.06.25-17.25.33:328][121]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 15,
+ "x": 0.49346110224723816,
+ "y": 0.42121899127960205,
+ "z": -0.17051807045936584
+}
+[2022.06.25-17.25.33:455][133]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 16,
+ "x": 0.44245630502700806,
+ "y": 0.4164313077926636,
+ "z": -0.4176537096500397
+}
+[2022.06.25-17.25.33:581][145]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 17,
+ "x": 0.5046040415763855,
+ "y": 0.4075421392917633,
+ "z": -0.1979612559080124
+}
+[2022.06.25-17.25.33:698][156]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 18,
+ "x": 0.45167768001556396,
+ "y": 0.4001138508319855,
+ "z": -0.4525567889213562
+}
+[2022.06.25-17.25.33:817][167]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 19,
+ "x": 0.5063210129737854,
+ "y": 0.3967949450016022,
+ "z": -0.19956953823566437
+}
+[2022.06.25-17.25.33:946][179]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 20,
+ "x": 0.45262864232063293,
+ "y": 0.387060284614563,
+ "z": -0.44724199175834656
+}
+[2022.06.25-17.25.34:062][190]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 21,
+ "x": 0.5014244914054871,
+ "y": 0.4017895460128784,
+ "z": -0.17681588232517242
+}
+[2022.06.25-17.25.34:191][202]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 22,
+ "x": 0.45088720321655273,
+ "y": 0.39078906178474426,
+ "z": -0.41645777225494385
+}
+[2022.06.25-17.25.34:308][213]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 23,
+ "x": 0.4391235113143921,
+ "y": 0.5783466100692749,
+ "z": 0.07010731846094131
+}
+[2022.06.25-17.25.34:437][225]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 24,
+ "x": 0.41070297360420227,
+ "y": 0.5739683508872986,
+ "z": -0.07030324637889862
+}
+[2022.06.25-17.25.34:555][236]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 25,
+ "x": 0.4413965046405792,
+ "y": 0.7303280234336853,
+ "z": 0.09631925076246262
+}
+[2022.06.25-17.25.34:682][248]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 26,
+ "x": 0.4250193238258362,
+ "y": 0.7306109666824341,
+ "z": -0.05545298755168915
+}
+[2022.06.25-17.25.34:801][259]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 27,
+ "x": 0.4353711009025574,
+ "y": 0.885310173034668,
+ "z": 0.18033765256404877
+}
+[2022.06.25-17.25.34:929][271]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 28,
+ "x": 0.38860705494880676,
+ "y": 0.8672451376914978,
+ "z": 0.043817516416311264
+}
+[2022.06.25-17.25.35:047][282]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 29,
+ "x": 0.4263516664505005,
+ "y": 0.9110068678855896,
+ "z": 0.18250912427902222
+}
+[2022.06.25-17.25.35:176][294]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 30,
+ "x": 0.3822418451309204,
+ "y": 0.8800504803657532,
+ "z": 0.049478523433208466
+}
+[2022.06.25-17.25.35:294][305]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 31,
+ "x": 0.4752595126628876,
+ "y": 0.9242767095565796,
+ "z": 0.10617245733737946
+}
+[2022.06.25-17.25.35:422][317]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 32,
+ "x": 0.3871647119522095,
+ "y": 0.9293541312217712,
+ "z": -0.04318787530064583
+}
+[2022.06.25-17.25.51:119][713]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 0,
+ "x": 0.3553735613822937,
+ "y": 0.29089128971099854,
+ "z": -0.1653498411178589
+}
+[2022.06.25-17.25.51:119][713]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 1,
+ "x": 0.3570486009120941,
+ "y": 0.27887335419654846,
+ "z": -0.1498943567276001
+}
+[2022.06.25-17.25.51:470][714]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 2,
+ "x": 0.35982468724250793,
+ "y": 0.2783924639225006,
+ "z": -0.14994804561138153
+}
+[2022.06.25-17.25.51:471][714]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 3,
+ "x": 0.3620586097240448,
+ "y": 0.2780737280845642,
+ "z": -0.14997437596321106
+}
+[2022.06.25-17.25.51:490][715]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 4,
+ "x": 0.34834450483322144,
+ "y": 0.28117066621780396,
+ "z": -0.14967526495456696
+}
+[2022.06.25-17.25.51:805][715]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 5,
+ "x": 0.34529274702072144,
+ "y": 0.28245115280151367,
+ "z": -0.14967945218086243
+}
+[2022.06.25-17.25.51:805][715]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 6,
+ "x": 0.3421469032764435,
+ "y": 0.2841712236404419,
+ "z": -0.14967666566371918
+}
+[2022.06.25-17.25.52:139][716]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 7,
+ "x": 0.3646322190761566,
+ "y": 0.2860553562641144,
+ "z": -0.058923620730638504
+}
+[2022.06.25-17.25.52:139][716]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 8,
+ "x": 0.33777374029159546,
+ "y": 0.2969309091567993,
+ "z": -0.05793044716119766
+}
+[2022.06.25-17.25.52:139][716]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 9,
+ "x": 0.36167284846305847,
+ "y": 0.3061276376247406,
+ "z": -0.1313626915216446
+}
+[2022.06.25-17.25.52:477][717]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 10,
+ "x": 0.3503808379173279,
+ "y": 0.3106139600276947,
+ "z": -0.1311623454093933
+}
+[2022.06.25-17.25.52:477][717]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 11,
+ "x": 0.3961609899997711,
+ "y": 0.3783525824546814,
+ "z": -0.011455493047833443
+}
+[2022.06.25-17.25.52:477][717]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 12,
+ "x": 0.31514331698417664,
+ "y": 0.3905923664569855,
+ "z": 0.003008283907547593
+}
+[2022.06.25-17.25.52:818][718]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 13,
+ "x": 0.4126507043838501,
+ "y": 0.4893046021461487,
+ "z": -0.11175800114870071
+}
+[2022.06.25-17.25.52:818][718]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 14,
+ "x": 0.30646660923957825,
+ "y": 0.5123274922370911,
+ "z": -0.08225894719362259
+}
+[2022.06.25-17.25.52:914][724]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 15,
+ "x": 0.41512981057167053,
+ "y": 0.4174644947052002,
+ "z": -0.31280916929244995
+}
+[2022.06.25-17.25.53:035][735]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 16,
+ "x": 0.308074414730072,
+ "y": 0.4402010142803192,
+ "z": -0.2884233295917511
+}
+[2022.06.25-17.25.53:159][747]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 17,
+ "x": 0.41637176275253296,
+ "y": 0.39567831158638,
+ "z": -0.3495417535305023
+}
+[2022.06.25-17.25.53:288][758]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 18,
+ "x": 0.30393677949905396,
+ "y": 0.41628193855285645,
+ "z": -0.3252357542514801
+}
+[2022.06.25-17.25.53:404][771]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 19,
+ "x": 0.41383329033851624,
+ "y": 0.3817916512489319,
+ "z": -0.3476291596889496
+}
+[2022.06.25-17.25.53:525][782]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 20,
+ "x": 0.30272331833839417,
+ "y": 0.4038456976413727,
+ "z": -0.323359876871109
+}
+[2022.06.25-17.25.53:648][788]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 21,
+ "x": 0.41136258840560913,
+ "y": 0.38567835092544556,
+ "z": -0.31619611382484436
+}
+[2022.06.25-17.25.53:773][801]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 22,
+ "x": 0.3051462173461914,
+ "y": 0.40966495871543884,
+ "z": -0.2926095426082611
+}
+[2022.06.25-17.25.53:898][816]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 23,
+ "x": 0.37603405117988586,
+ "y": 0.581252932548523,
+ "z": -0.00768264988437295
+}
+[2022.06.25-17.25.54:018][830]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 24,
+ "x": 0.33285748958587646,
+ "y": 0.5801604390144348,
+ "z": 0.0076422663405537605
+}
+[2022.06.25-17.25.54:148][842]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 25,
+ "x": 0.3685494065284729,
+ "y": 0.7401905655860901,
+ "z": -0.014181575737893581
+}
+[2022.06.25-17.25.54:267][854]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 26,
+ "x": 0.33957505226135254,
+ "y": 0.7438954710960388,
+ "z": 0.004364077467471361
+}
+[2022.06.25-17.25.54:391][866]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 27,
+ "x": 0.3649303913116455,
+ "y": 0.861803412437439,
+ "z": 0.17434124648571014
+}
+[2022.06.25-17.25.54:519][878]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 28,
+ "x": 0.34567710757255554,
+ "y": 0.8720371723175049,
+ "z": 0.17012466490268707
+}
+[2022.06.25-17.25.54:636][891]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] {
+ "index": 29,
+ "x": 0.3636245131492615,
+ "y": 0.8758982419967651,
+ "z": 0.1877504140138626
+}
+[2022.06.25-17.25.54:673][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.25.54:673][892]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.25.54:736][892]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-17.25.54:737][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.25.54:762][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-17.25.54:771][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.25.54:816][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-17.25.54:817][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.25-17.25.54:818][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.06.25-17.25.54:821][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.25.54:823][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.06.25-17.25.54:866][893]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.25-17.26.17:264][164]BlueprintLog: New page: UDP 컴파일
+[2022.06.25-17.26.17:313][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.06.25-17.26.17:730][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/UDP" FILE="../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Blueprints/UDP.uasset" SILENT=true
+[2022.06.25-17.26.17:735][197]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/UDP
+[2022.06.25-17.26.17:735][197]LogSavePackage: Moving '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Saved/UDP220C60E547DAEF796EC94EB2689A38C9.tmp' to '../../../../../../Users/CEY/Documents/Unreal Projects/UDP_test/Content/ThirdPerson/Blueprints/UDP.uasset'
+[2022.06.25-17.26.17:749][197]AssetCheck: New page: 에셋 저장:  UDP
+[2022.06.25-17.26.17:749][197]LogContentValidation: Display: Blueprint /Game/ThirdPerson/Blueprints/UDP.UDP 유효성 검사 중
+[2022.06.25-17.26.18:638][283]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Display: GenerateStreaming started...
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Display: GetPartitionedActors took 46 us
+[2022.06.25-17.26.18:643][283]LogWorldPartition: Display: GenerateStreaming took 242 us
+[2022.06.25-17.26.18:643][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-17.26.18:643][283]PIE: New page: PIE 세션: ThirdPersonMap (2022. 6. 26. 오전 11:26:18)
+[2022.06.25-17.26.18:643][283]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.26.18:647][283]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.06.25-17.26.18:648][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004370s)
+[2022.06.25-17.26.18:648][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004422s)
+[2022.06.25-17.26.18:648][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.26.18:648][283]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.06.25-17.26.18:649][283]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.25-17.26.18:649][283]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.06.25-17.26.18:650][283]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.06.25-17.26.18:650][283]LogPlayLevel: PIE: World Init took: (0.002432s)
+[2022.06.25-17.26.18:678][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.06.25-17.26.18:679][283]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-17.26.18:679][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-17.26.18:679][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-17.26.18:679][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-17.26.18:679][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-17.26.18:679][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-17.26.18:681][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-17.26.18:691][283]LogAudioMixer: Display: Using Audio Hardware Device LG HDR QHD(NVIDIA High Definition Audio)
+[2022.06.25-17.26.18:691][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-17.26.18:691][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-17.26.18:692][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-17.26.18:692][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.06.25-17.26.18:692][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.06.25-17.26.18:693][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.06.25-17.26.18:693][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.06.25-17.26.18:693][283]LogInit: FAudioDevice initialized.
+[2022.06.25-17.26.18:693][283]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2022.06.25-17.26.18:712][283]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.06.25-17.26.18:715][283]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.06.26-02.26.18
+[2022.06.25-17.26.18:716][283]LogWorld: Bringing up level for play took: 0.003356
+[2022.06.25-17.26.18:717][283]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.06.25-17.26.18:719][283]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.06.25-17.26.18:719][283]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.26.18:721][283]PIE: 서버가 로그인했습니다.
+[2022.06.25-17.26.18:721][283]PIE: 에디터에서 플레이 총 시작 시간 0.079초입니다.
+[2022.06.25-17.26.24:693][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.26.24:693][727]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.26.24:715][727]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-17.26.24:716][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.26.24:731][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-17.26.24:737][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.26.24:772][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.26.24:772][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.25-17.26.24:773][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.06.25-17.26.24:777][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.25-17.26.24:820][728]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.25-17.26.34:922][747]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Display: GenerateStreaming started...
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Display: GetPartitionedActors took 46 us
+[2022.06.25-17.26.34:928][747]LogWorldPartition: Display: GenerateStreaming took 297 us
+[2022.06.25-17.26.34:928][747]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.06.25-17.26.34:932][747]LogPlayLevel: [PlayLevel] Compiling UDP before play...
+[2022.06.25-17.26.34:984][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.06.25-17.26.34:985][747]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2022.06.25-17.26.34:985][747]PIE: New page: PIE 세션: ThirdPersonMap (2022. 6. 26. 오전 11:26:34)
+[2022.06.25-17.26.34:985][747]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.26.34:989][747]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.06.25-17.26.34:989][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003881s)
+[2022.06.25-17.26.34:989][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003927s)
+[2022.06.25-17.26.34:989][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-17.26.34:990][747]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.06.25-17.26.34:990][747]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.25-17.26.34:990][747]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.06.25-17.26.34:991][747]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.06.25-17.26.34:992][747]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2022.06.25-17.26.35:022][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.25-17.26.35:022][747]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-17.26.35:022][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-17.26.35:022][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-17.26.35:023][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-17.26.35:023][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-17.26.35:023][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-17.26.35:025][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-17.26.35:035][747]LogAudioMixer: Display: Using Audio Hardware Device LG HDR QHD(NVIDIA High Definition Audio)
+[2022.06.25-17.26.35:035][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-17.26.35:035][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-17.26.35:035][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-17.26.35:036][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.06.25-17.26.35:036][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.06.25-17.26.35:037][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.06.25-17.26.35:037][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.06.25-17.26.35:037][747]LogInit: FAudioDevice initialized.
+[2022.06.25-17.26.35:037][747]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2022.06.25-17.26.35:048][747]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.06.25-17.26.35:051][747]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.06.26-02.26.35
+[2022.06.25-17.26.35:051][747]LogWorld: Bringing up level for play took: 0.002983
+[2022.06.25-17.26.35:053][747]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.06.25-17.26.35:055][747]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.06.25-17.26.35:055][747]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.06.25-17.26.35:056][747]PIE: 서버가 로그인했습니다.
+[2022.06.25-17.26.35:057][747]PIE: 에디터에서 플레이 총 시작 시간 0.13초입니다.
+[2022.06.25-17.26.35:172][751]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.35:298][761]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.35:417][772]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.35:542][784]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.35:663][796]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.35:791][809]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.35:909][820]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:030][832]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:161][836]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:341][852]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:462][864]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:592][877]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:712][889]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:831][901]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.36:953][913]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.37:075][925]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.37:204][937]LogBlueprintUserMessages: [UDP_C_UAID_7085C2F802E81E1D01_2125748063] Hello
+[2022.06.25-17.26.37:273][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-17.26.37:273][942]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.06.25-17.26.37:301][942]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-17.26.37:301][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-17.26.37:313][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-17.26.37:314][942]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.25-17.26.39:128][942]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.814 s
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: 
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: 
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: Stack: 
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9e4e47d06 UnrealEditor-Engine.dll!UWorldPartitionRuntimeHash::ForceExternalActorLevelReference() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartitionRuntimeHash.cpp:49]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9e4e61684 UnrealEditor-Engine.dll!UWorldPartitionRuntimeHash::OnEndPlay() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartitionRuntimeHash.cpp:35]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9e4e61643 UnrealEditor-Engine.dll!UWorldPartition::OnEndPlay() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartition.cpp:349]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9e4e4236a UnrealEditor-Engine.dll!TBaseUObjectMethodDelegateInstance<0,UWorldPartition,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:611]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9f55aebed UnrealEditor-UnrealEd.dll!TMulticastDelegate<void __cdecl(void),FDefaultDelegateUserPolicy>::Broadcast() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:967]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9f60a0bf3 UnrealEditor-UnrealEd.dll!UEditorEngine::EndPlayMap() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:335]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9f5a8fa00 UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:2097]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff9f641a666 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:474]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff6893382f6 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5215]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff689350d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff689350e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff689353c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff689365564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ff689368736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ffa51b97034 KERNEL32.DLL!UnknownFunction []
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: [Callstack] 0x00007ffa53542651 ntdll.dll!UnknownFunction []
+[2022.06.25-17.26.39:128][942]LogOutputDevice: Error: 
