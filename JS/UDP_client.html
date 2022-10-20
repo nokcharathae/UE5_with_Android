@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>UDP client</title>
+      <script type = "text/javascript" src = "/socket.io/socket.io.js" ></script>  
+   </head>
+   <body>
+
+      <script>
+         var server = io.connect({port : 3002, host : '192.168.0.70'});
+         
+
+         server.write("hello");
+
+         server.end();
+      </script>
+   </body>
+</html>
