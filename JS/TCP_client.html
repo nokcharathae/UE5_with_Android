@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>TDP client</title>
+       
+   </head>
+   <body>
+
+      <script>
+        var net_client =require('net');
+        function getConnection(){
+            var client = ""; 
+            var recvData = [];
+            var local_port = "";
+
+            client = net_client.connect({port: 9090, host:'localhost'}, function() {
+                console.log("connect log======================================================================");
+                console.log('connect success');
+                console.log('local = ' + this.localAddress + ':' + this.localPort);
+                console.log('remote = ' + this.remoteAddress + ':' +this.remotePort);
+                local_port = this.localPort;
+                this.setEncoding('utf8'); 
+                this.setTimeout(600000); // timeout : 10분 
+            });
+
+            client.on('close', function() { 
+                console.log("client Socket Closed : " + " localport : " + local_port);
+            }); 
+
+            client.on('data', function(data) { 
+                recvData.push(data); 
+                console.log("data.length : " + data.length);
+                console.log("data recv : " + data);
+                client.end();
+            }); 
+
+            client.on('end', function() {
+                console.log(connName + ' Client disconnected');
+                });
+                client.on('error', function(err) {
+                console.log('Socket Error: ', JSON.stringify(err));
+                });
+                client.on('timeout', function() {
+                console.log('Socket Timed Out');
+                });
+                client.on('close', function() {
+                console.log('Socket Closed');
+                });
+
+            return client; 
+        }
+
+        function writeData(socket, data){
+            var success = !socket.write(data);
+            if (!success){
+                (function(socket, data){
+                socket.once('drain', function(){
+                    writeData(socket, data);
+                });
+                })(socket, data);
+            }
+        }
+
+        var client = getConnection();
+        writeData(client, "에코 서버 테스트입니다.");
+
+      </script>
+   </body>
+</html>
